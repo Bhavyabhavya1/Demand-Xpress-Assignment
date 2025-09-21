@@ -4,7 +4,7 @@ import ContactForm from './components/ContactForm/ContactForm.jsx';
 import ContactList from './components/ContactList/ContactList.jsx';
 import './App.css'
 
-const API = 'https://demand-xpress-assignment-backend.onrender.com/contacts';
+const API = 'https://demand-xpress-assignment-backend1.onrender.com/contacts';
 
 export default function App(){
   const [contacts, setContacts] = useState([]);
